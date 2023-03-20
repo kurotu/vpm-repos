@@ -1,7 +1,7 @@
 {
   "name": "kurotu",
   "author": "kurotu",
-  "url": "https://kurotu.github.io/vpm-repo/index.json",
+  "url": "https://kurotu.github.io/vpm-repo/vpm.json",
   "packages": {
     "com.github.kurotu.vrc-quest-tools": {
       "versions": {
