@@ -23,3 +23,4 @@ vpm add repo https://kurotu.github.io/vpm-repos/vpm.json
 
 ## Packages
 - [VRCQuestTools](https://github.com/kurotu/VRCQuestTools) (1.9.0 and later)
+- [Material Replacer](https://github.com/kurotu/MaterialReplacer) (1.1.1 and later)
