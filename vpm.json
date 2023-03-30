@@ -1,5 +1,6 @@
 {
   "name": "kurotu",
+  "id": "com.github.kurotu.vpm",
   "author": "kurotu",
   "url": "https://kurotu.github.io/vpm-repos/vpm.json",
   "packages": {
