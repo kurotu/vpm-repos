@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # Usage: combine-repos.sh <name> <id> <author> <url> <repo-url1> <repo-url2> ...
 
 set -eu
