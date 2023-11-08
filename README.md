@@ -5,7 +5,8 @@ VPM repository by [kurotu](https://github.com/kurotu).
 
 ## Packages
 - [VRCQuestTools](https://github.com/kurotu/VRCQuestTools) (1.9.0 and later)
-- [Material Replacer](https://github.com/kurotu/MaterialReplacer) (1.1.1 and later)
+- [KRT Material Tools](https://github.com/kurotu/krt-material-tools)
+- [(Deprecated) Material Replacer](https://github.com/kurotu/MaterialReplacer) (1.1.1 and later)
 
 ## Usage
 Click [here](https://kurotu.github.io/vpm-repos/vpm.html) to add `https://kurotu.github.io/vpm-repos/vpm.json` as a community repository in VCC Settings.
