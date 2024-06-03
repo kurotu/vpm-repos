@@ -1,0 +1,23 @@
+{
+    "name":"kurotu",
+    "id":"com.github.kurotu.vpm",
+    "url":"https://kurotu.github.io/vpm-repos/vpm.json",
+    "author":{
+        "email":"",
+        "name":"kurotu",
+        "url":"https://github.com/kurotu"
+    },
+    "description":"Tools for VRChat",
+    "infoLink":{
+        "url":"http://github.com/kurotu/vpm-repos",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+        "kurotu/VRCQuestTools",
+        "kurotu/krt-material-tools",
+        "kurotu/MaterialReplacer"
+    ],
+    "packages":[
+    ]
+}
