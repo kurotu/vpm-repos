@@ -50,7 +50,13 @@ jobs:
         run: ${{env.pathToCi}}/build.cmd BuildMultiPackageListing --root ${{env.pathToCi}} --list-publish-directory $GITHUB_WORKSPACE/${{env.listPublishDirectory}}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
- 
+
+      - name: Copy index.json to vpm.json
+        run: cp ${{env.listPublishDirectory}}/index.json ${{env.listPublishDirectory}}/vpm.json
+
+      - name: Copy vpm.html
+        run: cp vpm.html ${{env.listPublishDirectory}}/
+
       - name: Setup Pages
         uses: actions/configure-pages@v3
         
