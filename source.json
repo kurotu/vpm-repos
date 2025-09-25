@@ -15,6 +15,7 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "kurotu/VRCQuestTools",
+        "kurotu/FauxLightVolumes",
         "kurotu/krt-material-tools",
         "kurotu/MaterialReplacer"
     ],
